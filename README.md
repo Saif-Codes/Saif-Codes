@@ -1,4 +1,4 @@
-# Hi there, I'm Saif! 👋
+# Hi there, <img src="https://raw.githubusercontent.com/MartinVerreynne/MartinVerreynne/main/Assets/Hi.gif" width="30px"> I'm Saif!
 
 ### 🚀 Frontend Developer | UI/UX Enthusiast | Aspiring Django Developer
 
