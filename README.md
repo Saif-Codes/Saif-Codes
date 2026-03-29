@@ -1,4 +1,4 @@
-# Hi there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Saif!
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Specials/Sparkles.png" width="35px"> Hi there, I'm Saif!
 
 ### 🚀 Frontend Developer | UI/UX Enthusiast | Aspiring Django Developer
 
