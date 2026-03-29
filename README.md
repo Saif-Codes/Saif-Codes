@@ -47,4 +47,5 @@ I am a detail-oriented **Frontend Developer** focused on building responsive, pi
 
 ### GitHub Activity
 ![Saif's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saif-Codes&show_icons=true&theme=tokyonight)
+<br />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saif-Codes&layout=compact&theme=tokyonight)
